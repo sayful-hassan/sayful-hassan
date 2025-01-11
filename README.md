@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayful-hassan&show_icons=true&locale=en&layout=compact" alt="sayful-hassan" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayful-hassan&show_icons=true&locale=en" alt="sayful-hassan" /></p><br>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayful-hassan&show_icons=true&locale=en" alt="sayful-hassan" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayful-hassan&" alt="sayful-hassan" /></p>
