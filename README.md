@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm SAIFUL HASSAN</h1>
-<h3 align="center">A tech enthusiast with a foundation in fashion design, now blending creativity and functionality as a front-end developer</h3>
+<h3 align="center">A tech enthusiast with a foundation in fashion design, now blending creativity and functionality as a front-end designer & developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayful-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="sayful-hassan" /> </p>
